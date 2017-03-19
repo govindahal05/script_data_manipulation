@@ -1,0 +1,8 @@
+{
+    "name": "php import",
+    "require": {
+         "phpoffice/phpexcel":"1.8.1"
+
+    }
+}
+
